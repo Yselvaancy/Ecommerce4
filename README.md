@@ -1,1 +1,1 @@
-# Ecommerce4
+# ecommerce-shop-starter
